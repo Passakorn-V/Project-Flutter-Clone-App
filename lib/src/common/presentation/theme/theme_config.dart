@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 const Color lightPrimary = Color(0xffF5F5F5);
 const Color darkPrimary = Color(0xff1f1f1f);
-const Color lightAccent = Color(0xff2ca8e2);
-const Color darkAccent = Color(0xff2ca8e2);
+const Color lightAccent = Color.fromARGB(255, 4, 239, 11);
+const Color darkAccent = Color.fromARGB(255, 4, 239, 11);
 const Color lightBG = Colors.white;
 const Color darkBG = Color(0xff121212);
 const Color smokeWhite = Color(0xffF5F5F5);
